@@ -27,7 +27,13 @@ about: If you get a crash while playing the modpack, or something is not working
 <!-- REPRODUCE STEPS - Please describe how I can reproduce this issue below ## Reproduce Steps. -->
 ## Reproduce Steps
 
-
 <!-- ADDITIONAL INFORMATION - Please post any crash reports, screenshots, etc. here. (use Pastebin or Imgur accordingly) -->
+<!-- Please put crash reports onto pastebin, -->
+<!-- You can do so by going to Pastebin.com and copying and pasting the crashlog onto there and then clicking "Create New Paste" -->
+<!-- And then copying the link it puts you on to the Additional Information section-->
+<!-->
+<!-- For screenshots please use Imgur, -->
+<!-- You can do so by going to Imgur.com and dragging the images onto there. -->
+<!-- When they're done uploading you can copy the link to the image / album to the Additional Information section-->
 ## Additional Information
 
